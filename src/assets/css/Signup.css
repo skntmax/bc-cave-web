@@ -1,0 +1,295 @@
+.brand-icon2 {
+    position: absolute;
+    top: -1.66px;
+    left: -3.9px;
+    width: 35.06px;
+    height: 40.49px;
+  }
+  .cave2 {
+    font-size: 20.9px;
+  }
+  .bachelorscave2 {
+    margin: 0;
+    position: absolute;
+    top: 7.27px;
+    left: 37.25px;
+    letter-spacing: -0.02em;
+    line-height: 97.02%;
+    font-weight: 600;
+    font-family: inherit;
+    font-size: inherit;
+  }
+  .brand-container {
+    position: absolute;
+    top: 21px;
+    left: 15px;
+    width: 189px;
+    height: 32.78px;
+  }
+  .a-house-is {
+    display: block;
+  }
+  .a-house-is-container {
+    margin: 0;
+    position: absolute;
+    top: 188px;
+    left: 53px;
+    font-size: 25.73px;
+    letter-spacing: 0.06em;
+    line-height: 133.52%;
+    color: #4f4f4f;
+  }
+  .frame-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: linear-gradient(
+      161.05deg,
+      rgba(128, 255, 96, 0.16),
+      rgba(5, 13, 187, 0.16)
+    );
+    width: 598px;
+    height: 1024px;
+    overflow: hidden;
+    font-size: 21.81px;
+    color: #373737;
+  }
+  .undraw-city-girl-ccpd-1-icon {
+    position: absolute;
+    top: 605px;
+    left: 115px;
+    width: 547.86px;
+    height: 356px;
+    overflow: hidden;
+  }
+  .create-account {
+    margin: 0;
+    position: absolute;
+    top: 65px;
+    left: 793px;
+    font-size: 48.28px;
+    letter-spacing: 0.1em;
+    line-height: 97.02%;
+    font-weight: 600;
+    font-family: inherit;
+    color: #2c2c2c;
+  }
+  .login {
+    position: absolute;
+    top: 12px;
+    left: 189px;
+    letter-spacing: 0.01em;
+    line-height: 97.02%;
+    font-weight: 600;
+  }
+  .devicongoogle {
+    position: absolute;
+    top: 12px;
+    left: 60px;
+    width: 21px;
+    height: 21px;
+    overflow: hidden;
+  }
+  .login-with-google {
+    position: absolute;
+    top: 14px;
+    left: 100px;
+    font-size: 17.73px;
+    letter-spacing: 0.01em;
+    line-height: 97.02%;
+    font-weight: 600;
+    color: var(--color-mediumslateblue-100);
+  }
+  .login-parent {
+    position: absolute;
+    top: 270px;
+    left: 860px;
+    border-radius: var(--br-5xs);
+    border: 2px solid var(--color-mediumslateblue-100);
+    box-sizing: border-box;
+    width: 304px;
+    height: 46px;
+    overflow: hidden;
+    font-size: 21.73px;
+    color: var(--color-white);
+  }
+  .or {
+    position: absolute;
+    top: 428px;
+    left: 1004px;
+    font-size: 22.35px;
+    letter-spacing: 0.01em;
+    line-height: 97.02%;
+    font-weight: 600;
+    color: var(--color-gray-300);
+  }
+  .signup-child {
+    position: absolute;
+    top: 149px;
+    left: 816px;
+  }
+  .signup-item {
+    position: absolute;
+    top: 441.5px;
+    left: 884.5px;
+    border-top: 1px solid var(--color-gray-300);
+    box-sizing: border-box;
+    width: 102px;
+    height: 1px;
+  }
+  .signup-inner {
+    position: absolute;
+    top: 440.5px;
+    left: 1061.5px;
+    border-top: 1px solid var(--color-gray-300);
+    box-sizing: border-box;
+    width: 103px;
+    height: 1px;
+  }
+  .full-name {
+    position: absolute;
+    top: 10px;
+    left: 52px;
+    letter-spacing: 0.01em;
+    line-height: 97.02%;
+    font-weight: 500;
+  }
+  .frame-child9 {
+    position: absolute;
+    top: 44px;
+    left: 4px;
+    width: 434px;
+    height: 1px;
+  }
+  .full-name-parent {
+    position: absolute;
+    top: 512px;
+    left: 805px;
+    width: 438px;
+    height: 44.5px;
+  }
+  .evaemail-fill-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 34px;
+    height: 34px;
+    overflow: hidden;
+  }
+  .evaemail-fill-parent {
+    position: absolute;
+    top: 594px;
+    left: 801px;
+    width: 438px;
+    height: 44.5px;
+  }
+  .biphone-fill-icon {
+    position: absolute;
+    top: 6px;
+    left: 0px;
+    width: 28px;
+    height: 28px;
+    overflow: hidden;
+  }
+  .phone-number-parent {
+    position: absolute;
+    top: 676px;
+    left: 801px;
+    width: 438px;
+    height: 44.5px;
+  }
+  .icon-park-solidedit-name {
+    position: absolute;
+    top: 512px;
+    left: 809px;
+    width: 34px;
+    height: 34px;
+    overflow: hidden;
+  }
+  .fa6-solideye-slash-icon {
+    position: absolute;
+    top: 7px;
+    left: 403px;
+    width: 26px;
+    height: 20.8px;
+    overflow: hidden;
+  }
+  .mingcutelock-fill-icon {
+    position: absolute;
+    top: 10px;
+    left: 4px;
+    width: 28px;
+    height: 28px;
+    overflow: hidden;
+  }
+  .your-passowrd-parent {
+    position: absolute;
+    top: 757px;
+    left: 804px;
+    width: 438px;
+    height: 44.5px;
+  }
+  .create-account1 {
+    position: absolute;
+    top: 12px;
+    left: 135px;
+    letter-spacing: 0.01em;
+    line-height: 97.02%;
+    font-weight: 600;
+  }
+  .create-account-wrapper {
+    position: absolute;
+    top: 881px;
+    left: 804px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-mediumblue);
+    width: 438px;
+    height: 46px;
+    overflow: hidden;
+    font-size: 21.73px;
+    color: var(--color-white);
+  }
+  .login-now {
+    color: var(--color-mediumblue);
+  }
+  .already-have-an-container {
+    position: absolute;
+    top: 950px;
+    left: 801px;
+    font-size: 18.73px;
+    letter-spacing: -0.04em;
+    line-height: 97.02%;
+    font-weight: 500;
+    color: #555;
+  }
+  .by-signing-up-container {
+    position: absolute;
+    top: 827px;
+    left: 832.14px;
+    font-size: 17.16px;
+    letter-spacing: 0.01em;
+    line-height: 97.02%;
+    font-weight: 500;
+    color: #4f4e4e;
+  }
+  .signup-child1 {
+    position: absolute;
+    top: 828.66px;
+    left: 804px;
+    border-radius: 3.65px;
+    border: 1.4px solid #515151;
+    box-sizing: border-box;
+    width: 13.24px;
+    height: 13.24px;
+  }
+  .signup {
+    background-color: var(--color-white);
+    width: 1440px;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 20.73px;
+    color: var(--color-gray-200);
+    font-family: var(--font-inter);
+  }
+  

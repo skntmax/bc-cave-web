@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+ 
+body {
+  margin: 0;
+  line-height: normal;
+  width: 100%;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;  
+
+  /* font sizes */
+  --font-size-12xl: 31px;
+  --font-size-mid: 17px;
+  --font-size-mini-7: 14.7px;
+  --font-size-mid-7: 17.7px;
+  --font-size-base-7: 15.7px;
+  --font-size-lg-7: 18.7px;
+  --font-size-lg-8: 18.8px;
+  --font-size-sm-5: 13.5px;
+  --font-size-2xs-8: 10.8px;
+  --font-size-smi-8: 12.8px;
+  --font-size-16xl-3: 35.3px;
+  --font-size-smi-2: 12.2px;
+  --font-size-base-5: 15.5px;
+  --font-size-sm-1: 13.1px;
+  --font-size-base-1: 15.1px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #100c08;
+  --color-dimgray-100: #696969;
+  --color-dimgray-200: #5e5e5e;
+  --color-dimgray-300: #5b5b5b;
+  --color-dimgray-400: #595959;
+  --color-darkslategray-100: #444;
+  --color-silver-100: #bdbdbd;
+  --color-gainsboro-100: #e0e0e0;
+  --color-gainsboro-200: #dfdfdf;
+  --color-gainsboro-300: #dedede;
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-lgi-8: 19.8px;
+  --br-11xs-4: 1.4px;
+  --br-7xs-6: 5.6px;
+  --br-244xl: 263px;
+}
